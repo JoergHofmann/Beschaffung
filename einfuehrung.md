@@ -1,10 +1,10 @@
 ### Die betrieblichen Grundfunktionen
 
-Die Betriebswirtschaftslehre (...) ist innerhalb der Wirtschaftswissenschaften eine Einzelwissenschaft, die als Lehr- und Forschungsgegenstand den Betrieb untersucht.@(br)
-[de.wikipedia.org](https://de.wikipedia.org/wiki/Betriebswirtschaftslehre]
+Der Betrieb ist eine Organisation, die durch die dauerhafte Kombination von Produktionsmitteln Güter oder Dienstleistungen erstellt. 
+So steht es jedenfalls in der [Wikipedia](https://de.wikipedia.org/wiki/Betrieb). Daraus lassen auch die Grundfunktionen ableiten. Die Produktionsmittel müssen beschafft, die Güter und Dienstleistungen erstellt und schließlich verkauft werden. Das sind dann auch die betrieblichen Grundfunktionen
 
++ Beschaffung,
++ Produktion/Leistungserstellung,
++ Absatz.
 
-+ **Beschaffung**
-+ Produktion/Leistungserstellung
-+ Absatz
 
